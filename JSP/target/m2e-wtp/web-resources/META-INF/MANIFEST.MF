@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringJSPResource
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nkthanh
+Implementation-Vendor-Id: com.javasampleapproach.jspresource
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/spring-jsp-s
+ tatic-resource/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
